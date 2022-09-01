@@ -148,7 +148,7 @@ option {
 }
 #product-painel {
   position: absolute;
-  width: 70%;
+  width: 50%;
   border-radius: 10px;
   background-color: #eeeeee;
   padding: 10px 20px;
