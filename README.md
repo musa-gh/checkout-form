@@ -39,7 +39,7 @@ At the end of the this project, students will be able to;
 
    - When I click submit button or press enter, I can see a successful alert if validation succeeds
 
-🔥 You don’t need to use JS in this challenge but use correct input types and validation 
+
 
 ## Resources
 
