@@ -1,6 +1,5 @@
 # checkout-form
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+
 
 # Project - 005 : Checkout Form (HC-05)
 
@@ -21,7 +20,10 @@ At the end of the this project, students will be able to;
 
 - Create a checkout page following the design.
 
-![Form](checkout.png)
+![Ekran görüntüsü 2022-09-01 184524](https://user-images.githubusercontent.com/105465379/187956916-447c4452-24cf-4db5-bcc3-8d2f9764156f.jpg)
+
+<a href="https://musa-gh.github.io/checkout-form/" target="_blank">Clikc Here To My Checkout-Form</a>
+
 
 * Functionally similar to this: [Form](https://aaron-clarusway.github.io/form/)
 
@@ -37,7 +39,7 @@ At the end of the this project, students will be able to;
 
    - When I click submit button or press enter, I can see a successful alert if validation succeeds
 
-🔥 You don’t need to use JS in this challenge but use correct input types and validation 
+
 
 ## Resources
 
@@ -45,4 +47,3 @@ At the end of the this project, students will be able to;
 
 - [Fonts](./FONTS/)
 
-<center> ⌛ Happy Coding  ✍ </center>
