@@ -236,3 +236,50 @@ option {
   border: none;
   cursor: pointer;
 }
+.product-line-price {
+  float: left;
+  clear: left;
+  width: auto;
+  margin-top: 10px;
+}
+
+.product-line-price:before {
+  content: "Product Total: $";
+}
+.product-price strong::before {
+  content: "$";
+}
+
+.line-through::before {
+  content: "$";
+}
+
+.buy-detail p:nth-child(2):before {
+  content: "$";
+}
+.remove-product {
+  border: 0;
+  padding: 4px 8px;
+  margin: 5px;
+  background-color: rgb(222, 119, 23);
+  color: #fff;
+  font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium";
+  font-size: 12px;
+  border-radius: 3px;
+}
+
+.remove-product:hover {
+  background-color: #a44;
+}
+#postal-code-field {
+  width: 100%;
+}
+
+.product {
+  padding: 0 15px;
+}
+
+.buy-detail {
+  left: 50%;
+  transform: translateX(-50%);
+}
